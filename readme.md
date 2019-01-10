@@ -1,1 +1,1 @@
-Hi This is a workshop about git!!
+Hi, This is a workshop about git!!
