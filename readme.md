@@ -1,1 +1,1 @@
-Hi, This is a workshop about git!!asd
+Hi, This is a workshop about git!!
